@@ -28,7 +28,7 @@ All are 18-8 stainless steel unless noted.
 | Qty | Description                                      | Location              | McMaster PN | SAE Equivalent/Notes
 | --- | ---                                              | ---                   | ---         | ---
 |  3  | M8 x 45 hex bolt                                 | Leg pivots            | 91287A307   |
-|  3  | M8 washer                                        | Leg pivots            | 98689A116   |
+|  6  | M8 washer                                        | Leg pivots            | 98689A116   |
 |  3  | M8 nylon locking nut                             | Leg pivots            | 93625A110   |
 |  1  | M6-1.0 x 80mm hex head screw, partially threaded | Central tilt pivot    | 91287A254   |
 |  1  | M6-1.0 nylon locking nut                         | Central tilt pivot    | 93625A250   |
