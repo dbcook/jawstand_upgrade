@@ -15,11 +15,11 @@ Because of its construction with fairly low-grade steel and hardware, the JawSta
 
 The most effective and simple upgrade is to replace all the fasteners in the JawStand with stainless steel equivalents.  This should noticeably extend the life of the unit.
 
-All of the hardware is metric.  There is one part for which I could not find an 8-18 or 304 stainless version on McMaster - the M6x50mm carriage bolt.  For this one part I had to settle for a yellow plated corrosion-resistant regular steel bolt.
+All of the hardware is metric.  There is one part for which I could not find a stainless version on McMaster - the M6x50mm carriage bolt.  For this one part I had to settle for a yellow plated corrosion-resistant regular steel bolt.
 
 For M6 washers, you can substitute SAE 1/4" washers since the central hole is about 0.35 mm larger than the M6, and the outer diameter doesn't matter much.  Likewise the metric sheet metal screws are much more expensive than SAE ones in the USA, so I've listed SAE equivalents that work and will thread into the existing holes.
 
-The spring in the original work clamp is a conical compression spring.  I was not able to locate an easily available stainless steel equivalent, but various McMaster cylindrical compression springs are close enough.  You want an uncompressed length of about 1.5", diameter of about 0.72", and a wire size of about 0.062".
+The spring in the original work clamp is a conical compression spring.  I was not able to locate an easily available exact stainless steel equivalent, but various McMaster cylindrical compression springs are close enough.  You want an uncompressed length of about 1.5", diameter of about 0.72", and a wire size of about 0.062".
 
 ### Bill of Materials
 
@@ -27,7 +27,7 @@ All are 18-8 stainless steel unless noted.
 
 | Qty | Description                                      | Location              | McMaster PN | SAE Equivalent/Notes
 | --- | ---                                              | ---                   | ---         | ---
-|  3  | M8 x ??? hex bolt                                | Leg pivots            |
+|  3  | M8 x 45 hex bolt                                 | Leg pivots            | 91287A307   | NA
 |  3  | M8 washer                                        | Leg pivots            | 98689A116   | NA
 |  3  | M8 nylon locking nut                             | Leg pivots            | 93625A110   | NA
 |  1  | M6-1.0 x 80mm hex head screw, partially threaded | Central tilt pivot    | 91287A254   | NA
