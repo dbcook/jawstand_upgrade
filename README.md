@@ -51,4 +51,4 @@ Apart from the fasteners, various steel parts of the JawStand will benefit from 
 a corrosion inhibitor spray applied.
 ## Instructions, Hints and Tips
 
-See [instructions.md]
+See the [instructions](instructions.md)
