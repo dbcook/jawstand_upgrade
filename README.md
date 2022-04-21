@@ -27,13 +27,13 @@ All are 18-8 stainless steel unless noted.
 | --- | ---                                              | ---                   | ---         | ---
 |  3  | M8 x ??? hex bolt                                | Leg pivots            |
 |  3  | M8 washer                                        | Leg pivots            |
-|  3  | M8 nylon locking nut                             | Leg pivots   
+|  3  | M8 nylon locking nut                             | Leg pivots            |
 |  1  | M6-1.0 x 80mm hex head screw, partially threaded | Central tilt pivot    | 91287A254   |
 |  1  | M6-1.0 nylon locking nut                         | Central tilt pivot    | 
 |  1  | M6-1.0 x 90mm hex head screw, partially threaded | Tilt clamping bolt    | 91287A256   | 
-|  1  | M6-1.0 x 50mm square neck carriage bolt          | Main clamp assy       | 98930A201   |
-|  2  | M4 x 8 pan head machine screw                    | Main clamp assy       |             | ***check length***
-|  1  | Spring, #463                                     | Main clamp assy       |             | ***got at Marshall's HW***
+|  1  | M6-1.0 x 50mm square neck carriage bolt          | Work clamp assy       | 98930A201   |
+|  2  | M4 x 8 pan head machine screw                    | Work clamp assy       |             | ***check length***
+|  1  | Spring, compression, #S-463                      | Work clamp assy       | NA?         | Century Spring S-463CS
 |  1  | #4 x 3/8" round head sheet metal screw           | Angle pointer attach  |             | ***check size***
 |  1  | M4.2 x 12mm round head sheet metal screw         | Central spindle clamp |             | 92470A194 #8 x 1/2"
 |  1  | M6 x 20 pan head machine screw                   | Central spindle clamp |
